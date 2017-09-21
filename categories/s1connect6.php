@@ -1,0 +1,1 @@
+<?php $db = "perlphpasp"; $tb = "categories"; $dbstatus = 0; $connect = mysql_connect("localhost","root","");?>
